@@ -1,60 +1,64 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Capstone project / FilmTube
 
-> Description the project.
+This is the final project of the moduel 2. we build a series page using an API to display all the series on the main page and you can add a comment and if you like the serie you can liked.
+
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- SCSS
+- JavaScript
+- webpack.
+- APi's
+- jest tester
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]( https://jdbs9514.github.io/javaScript-Group-Capstone/)
 
+Zoom: https://drive.google.com/drive/my-drive
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Clone this repo: https://github.com/jdbs9514/javaScript-Group-Capstone.git
 
+After cloning this project, run the following commands:
 
-To get a local copy up and running follow these simple example steps.
+```markdown
+npm install
+npm start
+```
 
-### Prerequisites
+The `npm install` command installs all dependencies used in the project while `npm start` is used to start the development server and view the application on the browser.
 
-### Setup
-
-### Install
-
-### Usage
+- Series page.
+- You can update your favorite series.
+- we can recomend a new serie.
+- a lot of series. 
 
 ### Run tests
 
-### Deployment
-
-
-
+```markdown
+npm test
+```
 ## Authors
 
-👤 **Author1**
+👤 **Josué David Benavides Salinas**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/jdbs9514)
+- Twitter: [@twitterhandle](https://twitter.com/JODA1015)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/josue-benavides-617749b2)
 
-👤 **Author2**
+👤 **Maria Amalia Gomez Moro**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/AmaliaGM)
+- Twitter: [@twitterhandle](https://twitter.com/MariaAmaliaGomezMoro)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Maria Amalia Gomez Moro)
 
 ## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
@@ -64,8 +68,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+- Thanks for Tvmaze.com for give a free API to use for all the sofatware developers.
+- Inspiration 
 - etc
 
 ## 📝 License
